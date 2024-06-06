@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Quote Machine Generator (React, NodeJS, Redux, Tailwind)</b>
-  - [Quote Machine](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Quote Machine](https://github.com/Levytein/Quote-Machine)
   
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/gihoju" target="_blank">
