@@ -4,6 +4,10 @@
 
 - <b>Quote Machine Generator (React, NodeJS, Redux, Tailwind)</b>
   - [Quote Machine](https://github.com/Levytein/Quote-Machine)
+- <b>Markdown Previewer (React, NodeJS, Tailwind)</b>
+  - [Markdown Previewer](https://github.com/Levytein/Markdown-Previewer)
+- <b>Drum Machine? (React, NodeJS, Tailwind)</b>
+  - [Drum Machine?](https://github.com/Levytein/Drum-Machine)
   
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/gihoju" target="_blank">
