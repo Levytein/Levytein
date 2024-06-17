@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
+- <b>Pomodoro Timer (React and Tailwind)</b>
+  - [Pomodoro Timer](https://github.com/Levytein/Pomodoro-Timer)
 - <b>Quote Machine Generator (React, NodeJS, Redux, Tailwind)</b>
   - [Quote Machine](https://github.com/Levytein/Quote-Machine)
 - <b>Markdown Previewer (React, NodeJS, Tailwind)</b>
