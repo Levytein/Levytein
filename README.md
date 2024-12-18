@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>Pomodoro Timer (React and Tailwind)</b>
-  - [Pomodoro Timer](https://github.com/Levytein/Pomodoro-Timer)
-- <b>Quote Machine Generator (React, NodeJS, Redux, Tailwind)</b>
-  - [Quote Machine](https://github.com/Levytein/Quote-Machine)
+- <b>Mock Restaurant Site (React, SASS, TypeScript)</b>
+  - [Live Demo](https://restaurant-mockup-lime.vercel.app/)
+- <b>Weather App (React, NodeJS, Redux, Tailwind)</b>
+  - [Live Demo](https://levytein.github.io/Weather-App/)
 - <b>Markdown Previewer (React, NodeJS, Tailwind)</b>
   - [Markdown Previewer](https://github.com/Levytein/Markdown-Previewer)
 - <b>Drum Machine? (React, NodeJS, Tailwind)</b>
