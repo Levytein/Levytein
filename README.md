@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
+- <b>Pokemon Card Price Checker (React, SASS, TypeScript)</b>
+  - [Live Demo](https://poke-price-checker.vercel.app/)
 - <b>Mock Restaurant Site (React, SASS, TypeScript)</b>
   - [Live Demo](https://restaurant-mockup-lime.vercel.app/)
 - <b>Weather App (React, NodeJS, Redux, Tailwind)</b>
